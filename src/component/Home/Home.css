@@ -1,0 +1,9 @@
+.back{
+    background-image:linear-gradient(to bottom,rgb(255 255 255), rgb(79 7 7)),url(C:\Users\PRINCE\Desktop\mainimage.jpg);
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: multiply;
+    height: 400px;
+  } 
